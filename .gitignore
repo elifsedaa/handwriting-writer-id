@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+*.pt
+*.pth
+*.pt
+*.zip
+*.docx
+*.pdf
+temp_writer_project/
+experiments/runs/*
+!experiments/runs/.gitkeep
